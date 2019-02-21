@@ -1,7 +1,6 @@
-for i in range(1, 7): # De um até sete.
+for i in range(1,7):
     print(i)
 
-# Isso vai escrever na tela:
 # 1
 # 2
 # 3

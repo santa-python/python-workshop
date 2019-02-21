@@ -1,7 +1,6 @@
-for i in range(5): # De zero até cinco.
+for i in range(5):
     print(i)
 
-# Isso vai escrever na tela:
 # 0
 # 1
 # 2

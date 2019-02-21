@@ -1,7 +1,6 @@
-for i in range(10, -1, -1): # De dez até menos um, vai "descendo" de um em um.
+for i in range(10,-1,-1): 
     print(i)
 
-# Isso vai escrever na tela:
 # 10
 # 9
 # 8
